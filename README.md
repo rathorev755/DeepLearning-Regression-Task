@@ -1,5 +1,7 @@
 # DeepLearning-Regression-Task
 
+Problem statement: To predct the price of house given certain number of features sets.
+
 The data I am using is taken from Kaggle housesales prediction
 We will be using data from a Kaggle data set:
 
